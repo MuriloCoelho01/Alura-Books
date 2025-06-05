@@ -14,11 +14,3 @@ O componente principal (`App.js`) contém:
 
 - [React](https://reactjs.org/)
 - [styled-components](https://styled-components.com/)
-
-## 📦 Instalação
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/alura-books.git
-cd alura-books
